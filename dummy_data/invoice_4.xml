@@ -1,0 +1,11 @@
+<invoice>
+  <id>INV-2001</id>
+  <customer>Beta Solutions</customer>
+  <item>
+    <description>Mobile App Feature</description>
+    <price>500</price>
+    <vat>24</vat>
+  </item>
+  <total_price>600</total_price>
+  <total_vat>180</total_vat>
+</invoice>

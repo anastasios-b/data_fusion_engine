@@ -1,0 +1,13 @@
+{
+    "invoice_id": "INV-1001",
+    "customer": "John Doe",
+    "items": [
+        {
+            "description": "Web Design Service",
+            "price": 300,
+            "vat": 24
+        }
+    ],
+    "total_price": 300,
+    "total_vat": 72
+}

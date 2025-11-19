@@ -1,0 +1,2 @@
+invoice_id,customer,description,price,vat,total_price,total_vat
+INV-3001,Delta Industries,API Integration,400,24,400,96

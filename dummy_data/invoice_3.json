@@ -1,0 +1,13 @@
+{
+    "invoice_id": "INV-1003",
+    "customer": "Jane Smith",
+    "items": [
+        {
+            "description": "Consultation",
+            "price": 150,
+            "vat": 24
+        }
+    ],
+    "total_price": 150,
+    "total_vat": 36
+}

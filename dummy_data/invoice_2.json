@@ -1,0 +1,18 @@
+{
+    "invoice_id": "INV-1002",
+    "customer": "Acme Corp",
+    "items": [
+        {
+            "description": "Hosting",
+            "price": 120,
+            "vat": 24
+        },
+        {
+            "description": "Maintenance",
+            "price": 80,
+            "vat": 24
+        }
+    ],
+    "total_price": 200,
+    "total_vat": 48
+}

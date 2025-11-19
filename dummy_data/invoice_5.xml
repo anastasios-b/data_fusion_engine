@@ -1,0 +1,16 @@
+<invoice>
+  <id>INV-2002</id>
+  <customer>Omega Ltd</customer>
+  <item>
+    <description>Cloud Setup</description>
+    <price>250</price>
+    <vat>24</vat>
+  </item>
+  <item>
+    <description>Backup Service</description>
+    <price>100</price>
+    <vat>24</vat>
+  </item>
+  <total_price>350</total_price>
+  <total_vat>84</total_vat>
+</invoice>
